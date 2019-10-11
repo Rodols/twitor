@@ -1,6 +1,6 @@
 //austes para prodccion
 var url = window.location.href;
-var swLocation = "/twittor/sw.js";
+var swLocation = "/twitor/sw.js";
 
 //Primero el serviWorker
 if (navigator.serviceWorker) {
